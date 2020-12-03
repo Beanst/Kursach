@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="import-export">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre8-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre12-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre11-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import-export/mssql-jdbc-7.4.1.jre12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
